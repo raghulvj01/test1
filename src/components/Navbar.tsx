@@ -38,7 +38,7 @@ const Navbar: React.FC = () => {
             <div className="w-10 h-10 rounded-xl bg-gradient-to-r from-primary to-secondary p-2 flex items-center justify-center">
               <Stethoscope className="w-6 h-6 text-white" />
             </div>
-            <span className="text-xl font-bold gradient-text hidden sm:block">MedTools</span>
+            <span className="text-xl font-bold gradient-text hidden sm:block">Meddir</span>
           </motion.div>
 
           {/* Desktop Navigation */}

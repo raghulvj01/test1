@@ -17,7 +17,7 @@ const Footer: React.FC = () => {
       <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="space-y-4">
-            <h3 className="text-lg font-semibold gradient-text">MedTools</h3>
+            <h3 className="text-lg font-semibold gradient-text">Meddir</h3>
             <p className="text-sm text-gray-600">
               Empowering medical professionals with next-generation tools.
             </p>
@@ -89,11 +89,6 @@ const Footer: React.FC = () => {
             <p className="text-sm text-gray-600">
               © 2024 MedTools. All rights reserved.
             </p>
-            <div className="flex items-center space-x-1 text-sm text-gray-600 mt-4 md:mt-0">
-              <span>Made with</span>
-              <Heart className="w-4 h-4 text-red-500" />
-              <span>for medical professionals</span>
-            </div>
           </div>
         </div>
       </div>
